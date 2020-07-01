@@ -1,5 +1,6 @@
 import React from 'react';
 import { generateColorPaletteWithUniqueColors } from './appUtils';
+import './app.css';
 class App extends React.Component {
 	constructor() {
 		super();
